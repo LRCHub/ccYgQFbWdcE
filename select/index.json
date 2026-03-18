@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "base_track": "花瓶",
+  "base_artist": "Tele",
+  "createdAt": "2026-03-18T01:13:13.673823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花瓶",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/01_花瓶_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花瓶 - Kabin",
+      "artist": "Tele",
+      "has_synced": true,
+      "path": "select/02_花瓶_-_Kabin_Tele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花瓶",
+      "artist": "Tele",
+      "has_synced": true,
+      "path": "select/03_花瓶_Tele.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花瓶",
+      "artist": "卢巧音",
+      "has_synced": true,
+      "path": "select/04_花瓶_卢巧音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花瓶",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_花瓶_Tele.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "花瓶",
+      "artist": "Tele",
+      "has_synced": true,
+      "path": "select/localdb_01_花瓶_Tele.lrc",
+      "repo_name": "ccYgQFbWdcE"
+    }
+  ]
+}
